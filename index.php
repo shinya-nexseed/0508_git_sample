@@ -1,5 +1,6 @@
 <?php
 echo 'Hello world';
+$name = 'Github';
 ?>
 <!DOCTYPE html>
 <html>
